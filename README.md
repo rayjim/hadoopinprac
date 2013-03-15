@@ -1,3 +1,4 @@
+add for test
 change by ray
 Source code for book "Hadoop in Practice", Manning Publishing
 =============================================================
